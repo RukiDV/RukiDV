@@ -13,7 +13,7 @@
         <br>Vulkan
     </td>
     <td valign="top" align="center" width="96px">
-        <img src="./images/OpenGL_logo.svg" width="64" height="48" alt="OpenGL" />
+        <img src="./images/opengl-original.svg" width="64" height="48" alt="OpenGL" />
         <br>OpenGL
     </td>
     <td valign="top" align="center" width="96px">
@@ -56,7 +56,7 @@
         <br>LaTeX
     </td>
     <td valign="top" align="center" width="96px">
-        <img src="./images/blender-original.png" width="48" height="48" alt="Blender" />
+        <img src="./images/blender-original.svg" width="48" height="48" alt="Blender" />
         <br>Blender
     </td>
     <td valign="top" align="center" width="96px">
