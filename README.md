@@ -1,5 +1,7 @@
 # 👋🏼 Hi, I'm Ruki! :cherry_blossom:
 
+### I’m a passionate programmer, especially when it includes graphics and a splash of color :rainbow:
+
 ## ⚙️ Languages and Tools:
 
 <table>
@@ -39,7 +41,7 @@
   </tr>
 </table>
 
-## 🎓 Stuff I also know
+## 💡 Stuff I also know:
 
 <table>
   <tr>
