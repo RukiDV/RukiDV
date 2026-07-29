@@ -54,6 +54,10 @@
         <br>Python
     </td>
     <td valign="top" align="center" width="96px">
+        <img src="./images/unreal-engine-dark.png" width="50" height="50" alt="Unreal Engine" />
+        <br>Unreal Engine
+    </td>
+    <td valign="top" align="center" width="96px">
         <img src="./images/latex-original_inverted.png" width="48" height="48" alt="LaTeX" />
         <br>LaTeX
     </td>
