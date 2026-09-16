@@ -39,7 +39,7 @@
       
       <!-- main heading  -->
       <h1 style="display: flex; align-items: center; justify-content: center; gap: 12px; margin: 0; font-size: 42px; font-weight: 800; color: #ffffff; text-shadow: 0 2px 12px rgba(0,0,0,0.7), 0 0 25px rgba(0, 240, 255, 0.7);">
-        <img src="https://raw.githubusercontent.com/RukiDV/RukiDV/images/hand.gif" width="44px" style="vertical-align: middle;" alt="" />
+        <img src="https://raw.githubusercontent.com/RukiDV/RukiDV/master/images/hand.gif" width="44px" style="vertical-align: middle;" alt="" />
         Hi, I'm Ruki! 🌸
       </h1>
 
