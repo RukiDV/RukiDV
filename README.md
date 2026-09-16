@@ -79,6 +79,6 @@
 </table>
 
 <p align="center">
-  <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api?username=flycran&hide_title=true&hide_rank=true&icon_color=ff2ec4&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dracula" alt="Ruki's GitHub stats"/>
-  <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=ff2ec4&locale=cn&hide_border=true&card_width=320&hide_title=true&theme=dracula" alt="Top Langs"/>
+  <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api?username=RukiDV&hide_title=true&hide_rank=true&icon_color=ff2ec4&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dracula" alt="Ruki's GitHub stats"/>
+  <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api/top-langs/?username=RukiDV&layout=compact&title_color=ff2ec4&locale=cn&hide_border=true&card_width=320&hide_title=true&theme=dracula" alt="Top Langs"/>
 </p>
