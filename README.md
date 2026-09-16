@@ -2,8 +2,6 @@
   <img src="./images/banner.svg" width="100%" alt="Ruki ">
 </p>
 
-### I’m a passionate programmer, especially when it includes graphics and a splash of color :rainbow:
-
 ## ⚙️ Languages and Tools:
 
 <table>
